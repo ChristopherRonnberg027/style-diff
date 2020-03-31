@@ -1,0 +1,9 @@
+$font-stack:  'Space Mono', monospace;
+$primary-color: blue;
+$background-color: salmon;
+
+section.fancy {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background-color: $background-color;
+}
